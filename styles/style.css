@@ -47,8 +47,8 @@
    flex-direction: column;
 }
 .icon {
-
+   display: flex;;
 }
 .btn--flex {
-    
+    display: flex;
 }
