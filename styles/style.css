@@ -5,9 +5,7 @@
    flex-wrap: wrap;
    gap: 1em;
    justify-content: center;
-   align-content: center;
-
-   
+   align-content: center;  
 }
 
 .ytv {
@@ -22,7 +20,6 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    flex-grow: 1;
     gap: 1em;
 }
 .ytv__left {
